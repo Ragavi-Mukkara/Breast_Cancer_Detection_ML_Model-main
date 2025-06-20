@@ -149,6 +149,15 @@ We welcome contributions! Please follow these steps:
 - 🐱 [GitHub](https://github.com/sandy334)
 - 📧 [Email](mailto:sandeshhr334@gmail.com)
 
+## 🎨 Designer
+
+**Ragavi M**   
+
+-  [LinkedIn](https://www.linkedin.com/in/mukkararagavi/)  
+-  [GitHub](https://github.com/Ragavi-Mukkara)  
+-  [Email](mukkararagavi@gmail.com)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
